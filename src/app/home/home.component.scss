@@ -1,0 +1,27 @@
+.home-main {
+    padding: 0px;
+    margin: 0px;
+    min-height: 100vh;
+    background: linear-gradient(90deg,
+            #121010,
+            #172017,
+            #242023);
+}
+
+.home-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    border: 2px solid white;
+    height: 160px;
+    width: 450px;
+    margin-top: 40px;
+    background: linear-gradient(to bottom,rgb(73, 119, 151),rgb(73, 249, 35));
+}
+
+.card-content {
+   color: rgb(232, 223, 223);
+   font-style: italic;
+}

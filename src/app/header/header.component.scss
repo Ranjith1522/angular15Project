@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar {
+    background-color: black;
+    height: 40px;       
+}
+
+.navbar-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+button {
+    color: green;
+    height: 40px;
+    width: 80px;
+}
